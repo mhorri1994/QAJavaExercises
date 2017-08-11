@@ -1,0 +1,6 @@
+Matthew,22,Consultant
+Patrick,23,Student
+Sam,22,Unemployed
+Matthew,22,Consultant
+Patrick,23,Student
+Sam,22,Unemployed

@@ -1,0 +1,3 @@
+9,Fri Aug 11 15:18:43 BST 2017,Test Book,(Test Author),{Test Publisher,[77 Hazell Avenue,,,Colchester,CO29DP,Essex,United Kingdom]},3
+11,Fri Aug 11 15:18:43 BST 2017,The Times,(Test Author),{Test Publisher,[77 Hazell Avenue,,,Colchester,CO29DP,Essex,United Kingdom]},1
+10,Fri Aug 11 15:18:43 BST 2017,Map of the United Kingdom,(Test Author),{Test Publisher,[77 Hazell Avenue,,,Colchester,CO29DP,Essex,United Kingdom]},2
